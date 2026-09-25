@@ -11,7 +11,7 @@ Features:
 
 CustomerID
 
-Gender
+Genre
 
 Age
 
